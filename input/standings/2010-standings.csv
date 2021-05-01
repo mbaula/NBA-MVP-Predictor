@@ -1,0 +1,31 @@
+,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season
+0,Boston Celtics,50,32,.610,99.2,95.6,3.37,Y,N
+1,Toronto Raptors,40,42,.488,104.1,105.9,-1.83,N,Y
+2,New York Knicks,29,53,.354,102.1,105.9,-4.01,N,Y
+3,Philadelphia 76ers,27,55,.329,97.7,101.6,-3.93,N,Y
+4,New Jersey Nets,12,70,.146,92.4,101.5,-8.93,N,Y
+5,Cleveland Cavaliers,61,21,.744,102.1,95.6,6.17,Y,N
+6,Milwaukee Bucks,46,36,.561,97.7,96.0,1.37,Y,N
+7,Chicago Bulls,41,41,.500,97.5,99.1,-1.64,Y,N
+8,Indiana Pacers,32,50,.390,100.8,103.8,-3.11,N,Y
+9,Detroit Pistons,27,55,.329,94.0,99.1,-5.02,N,Y
+10,Orlando Magic,59,23,.720,102.8,95.3,7.12,Y,N
+11,Atlanta Hawks,53,29,.646,101.7,97.0,4.44,Y,N
+12,Miami Heat,47,35,.573,96.5,94.2,1.99,Y,N
+13,Charlotte Bobcats,44,38,.537,95.3,93.8,1.30,Y,N
+14,Washington Wizards,26,56,.317,96.2,101.0,-4.72,N,Y
+15,Denver Nuggets,53,29,.646,106.5,102.4,4.15,Y,N
+16,Utah Jazz,53,29,.646,104.2,98.9,5.33,Y,N
+17,Portland Trail Blazers,50,32,.610,98.1,94.8,3.18,Y,N
+18,Oklahoma City Thunder,50,32,.610,101.5,98.0,3.55,Y,N
+19,Minnesota Timberwolves,15,67,.183,98.2,107.8,-9.06,N,Y
+20,Los Angeles Lakers,57,25,.695,101.7,97.0,4.78,Y,N
+21,Phoenix Suns,54,28,.659,110.2,105.3,4.67,Y,N
+22,Los Angeles Clippers,29,53,.354,95.7,102.1,-6.01,N,Y
+23,Golden State Warriors,26,56,.317,108.8,112.4,-3.28,N,Y
+24,Sacramento Kings,25,57,.305,100.0,104.4,-4.06,N,Y
+25,Dallas Mavericks,55,27,.671,102.0,99.3,2.66,Y,N
+26,San Antonio Spurs,50,32,.610,101.4,96.3,5.07,Y,N
+27,Houston Rockets,42,40,.512,102.4,102.7,-0.02,N,N
+28,Memphis Grizzlies,40,42,.488,102.5,104.0,-1.39,N,Y
+29,New Orleans Hornets,37,45,.451,100.2,102.7,-2.27,N,Y

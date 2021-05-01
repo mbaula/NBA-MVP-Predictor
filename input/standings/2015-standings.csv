@@ -1,0 +1,31 @@
+,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season
+0,Toronto Raptors,49,33,.598,104.0,100.9,2.45,Y,N
+1,Boston Celtics,40,42,.488,101.4,101.2,-0.40,Y,Y
+2,Brooklyn Nets,38,44,.463,98.0,100.9,-3.13,Y,Y
+3,Philadelphia 76ers,18,64,.220,92.0,101.0,-9.04,N,Y
+4,New York Knicks,17,65,.207,91.9,101.2,-9.50,N,Y
+5,Cleveland Cavaliers,53,29,.646,103.1,98.7,4.08,Y,N
+6,Chicago Bulls,50,32,.610,100.8,97.8,2.54,Y,N
+7,Milwaukee Bucks,41,41,.500,97.8,97.4,-0.09,Y,N
+8,Indiana Pacers,38,44,.463,97.3,97.0,-0.23,N,Y
+9,Detroit Pistons,32,50,.390,98.5,99.5,-1.39,N,Y
+10,Atlanta Hawks,60,22,.732,102.5,97.1,4.75,Y,N
+11,Washington Wizards,46,36,.561,98.5,97.8,0.17,Y,N
+12,Miami Heat,37,45,.451,94.7,97.3,-2.92,N,Y
+13,Charlotte Hornets,33,49,.402,94.2,97.3,-3.44,N,Y
+14,Orlando Magic,25,57,.305,95.7,101.4,-5.87,N,Y
+15,Portland Trail Blazers,51,31,.622,102.8,98.6,4.41,Y,N
+16,Oklahoma City Thunder,45,37,.549,104.0,101.8,2.47,N,N
+17,Utah Jazz,38,44,.463,95.1,94.9,0.71,N,Y
+18,Denver Nuggets,30,52,.366,101.5,105.0,-3.07,N,Y
+19,Minnesota Timberwolves,16,66,.195,97.8,106.5,-8.00,N,Y
+20,Golden State Warriors,67,15,.817,110.0,99.9,10.01,Y,N
+21,Los Angeles Clippers,56,26,.683,106.7,100.1,6.80,Y,N
+22,Phoenix Suns,39,43,.476,102.4,103.3,-0.38,N,Y
+23,Sacramento Kings,29,53,.354,101.3,105.0,-3.07,N,Y
+24,Los Angeles Lakers,21,61,.256,98.5,105.3,-6.17,N,Y
+25,Houston Rockets,56,26,.683,103.9,100.5,3.82,Y,N
+26,Memphis Grizzlies,55,27,.671,98.3,95.1,3.62,Y,N
+27,San Antonio Spurs,55,27,.671,103.2,97.0,6.34,Y,N
+28,Dallas Mavericks,50,32,.610,105.2,102.3,3.36,Y,N
+29,New Orleans Pelicans,45,37,.549,99.4,98.6,1.13,Y,N
