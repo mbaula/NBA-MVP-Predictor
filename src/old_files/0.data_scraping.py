@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 import pandas as pd
 import os
-import time
 
 from constants import YEAR
 
@@ -141,7 +140,7 @@ class BasketballReferenceScraper():
     def scrapeMvp(self, YEAR):
 
         # specify directory we want the csv files to go into
-        os.chdir('../input/mvp_data')
+        os.chdir('../../input/mvp_data')
 
         for i in tqdm(range(len(YEAR))):
 
